@@ -1,0 +1,56 @@
+11/05/19 14:42
+
+Problem 1 (5 points):
+Score += 1
+
+Problem 2 (5 points):
+Score += 1
+
+Problem 3 (5 points):
+Score += 1
+
+Problem 4 (5 points):
+while your animations are interesting, they're incorrect. Please check what your output is supposed to look like
+Score += 1
+
+Problem 5 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 19/35 = 54.29%
+
+
+Comments:
+	I think the two animations that you have for -2 are identical..
+
+-------------------------------------------------------------------------------
+
+11/07/19 15:32
+
+Problem 1 (5 points):
+wave behaves oddly...
+Score += 4
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 34/35 = 97.14%
+
+Great job!
+
+-------------------------------------------------------------------------------
+

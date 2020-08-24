@@ -1,0 +1,25 @@
+10/29/19 15:00
+
+heat_equation.ipynb has not been modified yet
+
+-------------------------------------------------------------------------------
+
+10/31/19 14:55
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (15 points):
+Score += 15
+
+Code Quality (5 points):
+I had to go hunt down your video files becuase they weren't embedded
+Score += 0
+
+Total score: 30/35 = 85.71%
+
+-------------------------------------------------------------------------------
+

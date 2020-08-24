@@ -1,0 +1,48 @@
+10/12/19 23:07
+
+Problem 1 (10 points):
+x- and y-axis labels missing on his
+Score += 8
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (15 points):
+fix your labels to be more imformative; I don't know what many of these plots are trying to say
+Score += 10
+
+Code Quality (5 points):
+you do need comments
+Score += 0
+
+Total score: 38/50 = 76.0%
+
+-------------------------------------------------------------------------------
+
+10/15/19 15:52
+
+Problem 1 (10 points):
+be a little more descriptive either in titles or axis labels
+Score += 8
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (15 points):
+one figure is blank, email me if you think that's a test driver issue
+Score += 10
+
+Code Quality (5 points):
+comment your code!
+Score += 3
+
+Total score: 41/50 = 82.0%
+
+-------------------------------------------------------------------------------
+

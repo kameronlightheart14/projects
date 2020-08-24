@@ -1,0 +1,88 @@
+03/01/19 14:10
+
+Problems 1-6 (35 points):
+Score += 35
+
+Problem 7 (10 points):
+Incorrect maximizer
+	Correct response: 7453.59649122807
+	Student response: [2115384.615 1819230.769 2326923.077 1523076.923]
+Score += 0
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 40/50 = 80.0%
+
+-------------------------------------------------------------------------------
+
+03/05/19 15:20
+
+Problems 1-6 (35 points):
+Score += 35
+
+Problem 7 (10 points):
+Incorrect maximizer
+	Correct response: 7453.59649122807
+	Student response: [2115384.615 1819230.769 2326923.077 1523076.923]
+Score += 0
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 40/50 = 80.0%
+
+-------------------------------------------------------------------------------
+
+03/06/19 16:44
+
+Problems 1-6 (35 points):
+Score += 35
+
+Problem 7 (10 points):
+Incorrect maximizer
+	Correct response: 7453.59649122807
+	Student response: [2115384.615 1819230.769 2326923.077 1523076.923]
+Score += 0
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 40/50 = 80.0%
+
+-------------------------------------------------------------------------------
+
+03/12/19 15:09
+
+Problems 1-6 (35 points):
+Score += 35
+
+Problem 7 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+
+03/14/19 12:00
+
+Problems 1-6 (35 points):
+Score += 35
+
+Problem 7 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+

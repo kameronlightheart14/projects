@@ -1,0 +1,41 @@
+12/03/19 20:33
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+Score += 10
+
+Code Quality (5 points):
+comment your code!
+Score += 4
+
+Total score: 34/35 = 97.14%
+
+Great job!
+
+-------------------------------------------------------------------------------
+
+12/05/19 16:21
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 35/35 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+

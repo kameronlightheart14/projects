@@ -1,0 +1,60 @@
+10/22/19 14:48
+
+Problem 1 (5 points):
+plot wrong
+Score += 2
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (15 points):
+Score += 15
+
+Problem 5 (5 points):
+Score += 5
+
+Problem 6 (5 points):
+Score += 5
+
+Code Quality (5 points):
+make sure all plots have titles, etc
+Score += 3
+
+Total score: 40/45 = 88.89%
+
+-------------------------------------------------------------------------------
+
+10/24/19 14:25
+
+Problem 1 (5 points):
+plot wrong
+Score += 3
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (15 points):
+Score += 15
+
+Problem 5 (5 points):
+Score += 5
+
+Problem 6 (5 points):
+your max shoudl be about 50, not 70
+Score += 3
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 41/45 = 91.11%
+
+Great job!
+
+-------------------------------------------------------------------------------
+

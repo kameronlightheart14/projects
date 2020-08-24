@@ -1,0 +1,35 @@
+01/14/20 17:06
+
+Problem 1 (15 points):
+Score += 15
+
+Problem 2 (10 points):
+Score += 10
+
+Code Quality (5 points):
+more comments
+Score += 4
+
+Total score: 29/30 = 96.67%
+
+Great job!
+
+-------------------------------------------------------------------------------
+
+01/16/20 22:09
+
+Problem 1 (15 points):
+Score += 15
+
+Problem 2 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 30/30 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+

@@ -1,0 +1,54 @@
+11/09/19 22:15
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+print something so I know the code ran
+Score += 3
+
+Problem 3 (10 points):
+same thing, just print something out
+Score += 8
+
+Problem 4 (10 points):
+parallel should be faster
+Score += 6
+
+Problem 5 (15 points):
+kind of a funky answer. maybe your issue is that you should have y = np.linspace(a+h,b,N)? not sure though
+Score += 14
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 41/50 = 82.0%
+
+-------------------------------------------------------------------------------
+
+11/13/19 22:49
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (15 points):
+Score += 15
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+

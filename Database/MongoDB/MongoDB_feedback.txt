@@ -1,0 +1,48 @@
+01/14/20 16:36
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (5 points):
+Report the number of popular tweets.
+Score += 2
+
+Code Quality (5 points):
+comment code
+Score += 2
+
+Total score: 29/35 = 82.86%
+
+-------------------------------------------------------------------------------
+
+01/16/20 21:52
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (5 points):
+report most popular tweets
+Score += 4
+
+Code Quality (5 points):
+comment code
+Score += 4
+
+Total score: 33/35 = 94.29%
+
+Great job!
+
+-------------------------------------------------------------------------------
+

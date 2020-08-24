@@ -1,0 +1,41 @@
+10/01/19 14:46
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+Score += 10
+
+Code Quality (5 points):
+make sure all plots have titles and axis labels
+Score += 2
+
+Total score: 27/30 = 90.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+
+10/03/19 14:48
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 30/30 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+

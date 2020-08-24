@@ -1,0 +1,32 @@
+01/21/20 16:39
+
+File 'spectral1.ipynb' not found!
+
+-------------------------------------------------------------------------------
+
+01/21/20 17:05
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (15 points):
+Score += 15
+
+Problem 5 (10 points):
+Score += 10
+
+Code Quality  (5 points):
+Score += 5
+
+Total score: 60/60 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+

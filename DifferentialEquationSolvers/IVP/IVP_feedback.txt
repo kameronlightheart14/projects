@@ -1,0 +1,56 @@
+09/17/19 14:14
+
+Problem 1 (5 points):
+Score += 2
+Your lines are too spread out; the bottom one should be closer to 12.5 at 2
+
+Problem 2 (15 points):
+Score += 8
+You should also be plotting euler, and your midpoint and rk4 should be almost identical to the analytic solution. also your error plot should match the one in the lab spec.
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+Score += 0
+your plot is way off
+
+Problem 5 (5 points):
+Score += 5
+
+Code Quality (5 points):
+Score += 0
+comments
+
+Total score: 20/40 = 0.0%
+
+-------------------------------------------------------------------------------
+
+09/21/19 16:22
+
+Problem 1 (5 points):
+your true solution should have 2e^t not just e^t and your euler approximations should match the figure in the pdf
+Score += 3
+
+Problem 2 (15 points):
+midpoint and rk4 are off in the actual and your error plot does not match your code at all as far as I can tell
+Score += 2
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+not quite right
+Score += 3
+
+Problem 5 (5 points):
+Score += 5
+
+Code Quality (5 points):
+Score += 4
+label axis
+
+Total score: 22/40 = 55.0%
+
+-------------------------------------------------------------------------------
+

@@ -1,0 +1,17 @@
+11/20/19 16:51
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 25/25 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+

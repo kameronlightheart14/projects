@@ -1,0 +1,122 @@
+10/27/19 00:31
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Index is not correct. Student response: False just means that solution.index.equals(student.index) was false.
+	Correct response: True
+	Student response: False
+Score += 0
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (5 points):
+Score += 5
+
+Problem 6 (15 points):
+TypeError: cannot unpack non-iterable NoneType object
+
+Code Quality (5 points):
+comment your code!!
+Score += 2
+
+Total score: 27/50 = 54.0%
+
+-------------------------------------------------------------------------------
+
+10/28/19 18:04
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Index is not correct. Student response: False just means that solution.index.equals(student.index) was false.
+	Correct response: True
+	Student response: False
+Score += 0
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (5 points):
+Score += 5
+
+Problem 6 (15 points):
+KeyError: 0
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 30/50 = 60.0%
+
+-------------------------------------------------------------------------------
+
+10/28/19 18:30
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Index is not correct. Student response: False just means that solution.index.equals(student.index) was false.
+	Correct response: True
+	Student response: False
+Score += 0
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (5 points):
+Score += 5
+
+Problem 6 (15 points):
+Should be returning a list of three floats.
+Should return two lists
+Score += 8
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 38/50 = 76.0%
+
+-------------------------------------------------------------------------------
+
+10/30/19 20:04
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (5 points):
+Score += 5
+
+Problem 6 (15 points):
+Score += 15
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+

@@ -1,0 +1,43 @@
+09/12/19 14:12
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+Score += 10
+
+Problems 3 and 4 (20 points):
+You should print out LOSE or something like that when the player loses
+Score += 19
+
+Code Quality (10 points):
+Score += 10
+
+Total score: 49/50 = 98.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+
+09/17/19 19:54
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+Score += 10
+
+Problems 3 and 4 (20 points):
+prompts another move after player loses
+Score += 19
+
+Code Quality (10 points):
+add some comments and running prob1 prints to termianl
+Score += 7
+
+Total score: 46/50 = 92.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+

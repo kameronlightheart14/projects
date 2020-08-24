@@ -1,0 +1,24 @@
+01/20/20 12:03
+
+Problem 1 (5 points):
+Score += 5.0
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 5.0
+
+Problem 4 (10 points):
+Score += 0
+
+Problem 5 (15 points):
+NameError: name 'sex_binary' is not defined
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 20/50 = 40.0%
+
+-------------------------------------------------------------------------------
+

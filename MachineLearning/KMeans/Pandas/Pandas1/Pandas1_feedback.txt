@@ -1,0 +1,118 @@
+10/03/19 14:57
+
+ModuleNotFoundError while loading 'pandas1.py': No module named 'google.colab'
+
+-------------------------------------------------------------------------------
+
+10/07/19 12:55
+
+Problem 1 (5 points):
+AttributeError: 'list' object has no attribute 'values'
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (5 points):
+ValueError: operands could not be broadcast together with shapes (18,) (22,) 
+
+Problem 5 (15 points):
+Part 2: Sould be returning just the aggravated assault
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 35/50 = 70.0%
+
+-------------------------------------------------------------------------------
+
+10/07/19 19:56
+
+Problem 1 (5 points):
+AttributeError: 'numpy.ndarray' object has no attribute 'values'
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+Means of most correlated column to Living Expense not correct
+	Correct response: 751.0416666666666
+	Student response: (9.3566e-320+9.1753e-320j)
+Score += 5
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (15 points):
+Score += 15
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 40/50 = 80.0%
+
+-------------------------------------------------------------------------------
+
+10/08/19 14:26
+
+Problem 1 (5 points):
+AttributeError: 'numpy.ndarray' object has no attribute 'values'
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+Means of most correlated column to Living Expense not correct
+	Correct response: 751.0416666666666
+	Student response: 0j
+Score += 5
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (15 points):
+Score += 15
+
+Code Quality (5 points):
+comment your code
+Score += 3
+
+Total score: 38/50 = 76.0%
+
+-------------------------------------------------------------------------------
+
+10/19/19 17:14
+
+Problem 1 (5 points):
+Index of random DataFrame incorrect.
+	Correct response: "['I' 'II' 'III' 'IV' 'V' 'VI']"
+	Student response: "['A' 'B' 'C' 'D' 'E']"
+Columns of random DataFrame incorrect.
+	Correct response: "['A' 'B' 'C' 'D' 'E']"
+	Student response: "['I' 'II' 'III' 'IV' 'V' 'VI']"
+Score += 3
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (15 points):
+Score += 15
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 48/50 = 96.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+

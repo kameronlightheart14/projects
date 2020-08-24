@@ -1,0 +1,63 @@
+09/24/19 14:33
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+make sure to mark each of the fixed points
+Score += 9
+
+Problems 5 and 6 (10 points):
+Score += 10
+
+Problem 7 (5 points):
+there should be a change about halfway through
+Score += 3
+
+Code Quality (5 points):
+comments
+Score += 4
+
+Total score: 46/50 = 92.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+
+09/26/19 17:15
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+Score += 10
+
+Problems 5 and 6 (10 points):
+Score += 10
+
+Problem 7 (5 points):
+plot should match the one posted on learning suite
+Score += 0
+
+Code Quality (5 points):
+Score += 5
+
+Extra Credit (10 points):
+Score += 0
+
+Total score: 45/60 = 75.0%
+
+-------------------------------------------------------------------------------
+
